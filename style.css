@@ -159,9 +159,8 @@ a {
 .cta-banner {
     display: flex;
     background-color: #3882f6;
-    padding: 24px 96px;
+    padding: 56px 96px;
     flex-basis: 1100px;
-    height: 100px;
     align-items: center;
     border-radius: 8px;
     flex-wrap: wrap;
