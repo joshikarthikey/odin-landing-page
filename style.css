@@ -144,3 +144,51 @@ a {
     font-size: 24px;
     font-weight: bold;
 }
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 96px;
+}
+
+.cta-banner {
+    display: flex;
+    background-color: #3882f6;
+    padding: 24px 96px;
+    flex-basis: 1100px;
+    height: 100px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.cta-text{
+    display: flex;
+    flex-direction: column;
+    margin-right: auto;
+}
+.cta-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
+
+.cta-para {
+    font-size: 16px;
+    font-weight: lighter;
+    color: #f9faf8;
+    margin: 0;
+    padding: 0;
+}
+
+.cta-btn {
+    padding: 5px 32px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid #f9faf8;
+}
