@@ -55,8 +55,7 @@ a {
     display: flex;
     flex-direction: column;
     height: 320px;
-    flex-basis: 600px;
-    flex-shrink: 1;
+    flex: 1 1 600px;
     justify-content: center;
 }
 
