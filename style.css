@@ -48,13 +48,15 @@ a {
     justify-content: center;
     align-items: center;
     gap: 64px;
+    flex-wrap: wrap;
 }
 
 .hero-text-content {
     display: flex;
     flex-direction: column;
     height: 320px;
-    width: 640px;
+    flex-basis: 600px;
+    flex-shrink: 1;
     justify-content: center;
 }
 
