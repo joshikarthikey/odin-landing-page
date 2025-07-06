@@ -24,7 +24,7 @@ body {
     align-items: center;
 }
 .logo {
-    font-size: 32px;
+    font-size: 24px;
     font-weight: bold;
     color: #f9faf8;
     margin-right: auto;
@@ -39,7 +39,7 @@ ul {
 a {
     text-decoration: none;
     color: #e5e7eb;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: lighter;
 }
 
@@ -59,7 +59,7 @@ a {
 }
 
 .hero-heading {
-    font-size: 56px;
+    font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
     margin: 0;
@@ -67,7 +67,7 @@ a {
 
 .hero-para {
     color: #e5e7eb;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 300;
 }
 .sign-up {
@@ -75,7 +75,7 @@ a {
     padding: 10px 40px;
     color: #f9faf8;
     background-color: #3882f6;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
     border-radius: 8px;
     border: none;
@@ -90,7 +90,7 @@ a {
 }
 
 .gallery-title {
-    font-size: 42px;
+    font-size: 36px;
     font-weight: 900;
     color: #1f2937;
 }
@@ -105,7 +105,7 @@ a {
 }
 
 .gallery-text{
-    font-size: 24px;
+    font-size: 16px;
     color: #a4a4aa;
     text-align: center;
 }
@@ -131,7 +131,7 @@ a {
 }
 
 .testimonial-text {
-    font-size: 42px;
+    font-size: 36px;
     color: #1f2937;
     font-weight: lighter;
     margin: 0;
@@ -141,7 +141,7 @@ a {
 
 .testimonial-author{
     align-self: flex-end;
-    font-size: 24px;
+    font-size: 16px;
     font-weight: bold;
 }
 
@@ -202,7 +202,7 @@ a {
 }
 
 .footer-text {
-    font-size: 16px;
+    font-size: 12px;
     margin: 0;
     font-style: normal;
     font-weight: normal;
